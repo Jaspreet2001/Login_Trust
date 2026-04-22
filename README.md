@@ -90,8 +90,6 @@ Response:
 - Session-based authentication
 
 ## Authors
-- Jashanjot Singh  
-- Prabhjot Singh
 - Jaspreet Kaur
 
 ## License
