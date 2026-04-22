@@ -1,6 +1,6 @@
 # Login Trust — Advanced Phishing Detection Platform
 
-Login Trust is a web-based cybersecurity platform that detects phishing login pages in real time using a multi-layer heuristic scanning engine.
+Login Trust is a real-time phishing detection platform that identifies malicious login pages using a multi-layer heuristic scanning engine. It analyzes URLs through 24+ security checks and generates an interpretable risk score, verdict, and threat breakdown to help users avoid credential theft attacks.
 
 ## Features
 - Real-time URL scanning
